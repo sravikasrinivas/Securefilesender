@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    btechxerox:
+      email: btechxerox@gmail.com
+      name: B-Tech xeroxwala
+      password: $2b$12$RobgplsXPiE88Hx3gRVIzOgpBFKeG.Sz0pVx.vJxe2f3M1VzfjUCq
+    saibabaxerox:
+      email: saibabaxerox@gmail.com
+      name: Sai baba xerox
+      password: $2b$12$MeIl161bWlxXw.7xvqngYOqkYgRfsKy3LsCjrBrqAH0Gk1pxGxl3C
+    sravika:
+      email: sravikasrinivas02@gmail.com
+      name: Sravika
+      password: $2b$12$3aEgdDDLrVOAG3ubZ3KSDOw76lRVTRulpZ0lKljSviv5XEUwIAAqq
+    srilakshmixerox:
+      email: srilakshmixerox@gmail.com
+      name: Sri Lakshmi xerox
+      password: $2b$12$rJTlvk8rIBGR0Hf8xfo1JOLQsOoSmjfpE1U7hIWCS9HjWjqMkLExC
