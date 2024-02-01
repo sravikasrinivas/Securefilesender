@@ -24,7 +24,7 @@ def upload_with_expiration(creds_path, local_file_path, bucket_name, folder_name
     blob.upload_from_filename(local_file_path)
 
 def save_to_server(path,name,folder,expiry_time):
-    url = "http://34.235.211.247:8099/upload/"
+    url = "http://3.110.41.171:8099/upload/"
     payload = {
         "name":name,
         "folder":folder,
@@ -35,7 +35,7 @@ def save_to_server(path,name,folder,expiry_time):
     return response.json()
 
 def get_centers_list():
-    url = "http://34.235.211.247:8099/centers_list/"
+    url = "http://3.110.41.171:8099/centers_list/"
     payload = {
         "name": "",
     }
